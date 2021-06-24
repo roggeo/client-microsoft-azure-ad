@@ -1,0 +1,9 @@
+{
+  "name": "client-microsoft-azure-ad",
+  "version": "1.0.0",
+  "description": "Client to connect with Microsoft Azure Active Directory",
+  "main": "index.js",
+  "repository": "https://github.com/roggeo/client-microsoft-azure-ad.git",
+  "author": "Roggeo",
+  "license": "MIT"
+}
